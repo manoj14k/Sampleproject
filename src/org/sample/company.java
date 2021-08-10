@@ -18,9 +18,10 @@ public static void main(String[] args) {
    mp.put(50, "python");
    mp.put(60, "cloud");
    mp.put(10,"c#");
+   mp.put(100, "testng");
+   mp.put(300, "value");
    mp.put(90, "google");
-   
-   
+      
    int size = mp.size();
    System.out.println(size);
    
